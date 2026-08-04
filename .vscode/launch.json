@@ -1,0 +1,15 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Run QuizBattleGUI",
+      "type": "java",
+      "request": "launch",
+      "mainClass": "QuizBattleGUI",
+      "cwd": "${workspaceFolder}",
+      "classPaths": [
+        "${workspaceFolder}/week 10"
+      ]
+    }
+  ]
+}
